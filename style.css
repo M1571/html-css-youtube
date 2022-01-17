@@ -103,6 +103,8 @@ main {
   
 .play-list-wrapper {
     padding: 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
 }
   
 .play-list {
